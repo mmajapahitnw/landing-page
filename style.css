@@ -80,3 +80,15 @@ img {
     height: 200px;
     flex: 1;
 }
+
+.container-2 {
+    font-size: 36px;
+    color: #1f2937;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.tiles-container {
+    font-size: 18px;
+    display: flex;
+}
